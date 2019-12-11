@@ -49,7 +49,7 @@
         </div>        
 
         <div class="row justify-content-center">
-            <form class="col-4" action="process.php" method="POST">
+            <form class="col-sm-12 col-md-6 col-xl-4" action="process.php" method="POST">
                 <div class="form-group">
                     <label>Тип оборудования</label>
                     <select name="type" class="form-control">
